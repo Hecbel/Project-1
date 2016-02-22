@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+
+        <p>I would see scenes like...</p>
+        <img src="https://www.kasandbox.org/programming-images/landscapes/beach-waves-at-sunset.png" alt="Warm beach sunset with cool clouds and passive waves formation" width="400">
+
+        <p>And animals like...</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/kangaroos.png" alt="Two kangaroos, one posing in the background lying in the green grass. The other is looking kind of lost and is standing in front of the other kangaroo" width="400">
+
+        <p>And eat food like...</p>
+        <img src="https://www.kasandbox.org/programming-images/food/broccoli.png" alt=" Lonelly piece of brocolli in a closeup angle, with a green healthy looking color and in desperate need of a nacho cheese topping." width="400">
+
+    </body>
+</html>
