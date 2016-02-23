@@ -1,5 +1,6 @@
 Project 1 Hecbel Github is hard
 
-### Team-
+
+### Team:
   - Isaiah
-  -Hecbel
+  - Hecbel
